@@ -1,8 +1,8 @@
 # Task-Manager_code
 
 
-# Tesm Members
-1.
+# Team Members
+1.Mansi Mehta
 2.
 3.
 4.Y Jayanth Reddy
