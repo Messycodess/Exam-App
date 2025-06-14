@@ -1,4 +1,9 @@
-# Exam App(MCQ)
+# Designing a web page for ECE department
+
+# Main objectives
+1. Faculty details should be upto date without much or no effort from their side.
+2. It should have a good and modern interface.
+3. It shouldn't take much time to load, (the present website has some loading issues).
 
 
 # Team Members
@@ -6,10 +11,3 @@
 2.Raghavesh
 3.A Nishitha
 4.Y Jayanth Reddy
-
-the website will be used by 2 types of users
-1.Examiner
-He/she should be able to feed a pdf with question ,options and answer (internally the application should be able to scrap the data and form the exam (question paper)
-for students
-2.Student
-He/she should be able to take the test within the timelimit (timer) ,get the results insantly and the solution as well !
